@@ -7,5 +7,6 @@
 ## Список баз данных
 
 - [Библиотека](library/README.md)
+- [Учет выполнения курсовых работ](term_papers/README.md)
 - [Гараж](garage/README.md)
 - [Изготовление деталей](parts/README.md)
