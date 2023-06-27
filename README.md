@@ -6,6 +6,7 @@
 
 ## Список баз данных
 
+- [Успеваемость студентов](grades/README.md)
 - [Библиотека](library/README.md)
 - [Учет выполнения курсовых работ](term_papers/README.md)
 - [Гараж](garage/README.md)
