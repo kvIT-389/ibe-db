@@ -6,9 +6,10 @@
 
 ## Список баз данных
 
-- [Учет товаров на складах и торговых точках](products/README.md)
-- [Успеваемость студентов](grades/README.md)
-- [Библиотека](library/README.md)
-- [Учет выполнения курсовых работ](term_papers/README.md)
-- [Гараж](garage/README.md)
-- [Изготовление деталей](parts/README.md)
+- [Учет товаров на складах и торговых точках](products/TASK.md)
+- [Успеваемость студентов](grades/TASK.md)
+- [Библиотека](library/TASK.md)
+- [Учет выполнения курсовых работ](term_papers/TASK.md)
+- [Гараж](garage/TASK.md)
+- [Учет материального положения студентов](students/TASK.md)
+- [Изготовление деталей](parts/TASK.md)
